@@ -38,7 +38,16 @@ Input (32x32x3) → Conv2D(32) + ReLU + Dropout + BatchNorm
 
 ## 📈 Training Progress
 
-*(Will be updated soon with loss/accuracy plot and confusion matrix)*
+### 📊 Accuracy & Loss
+
+![Training Plot](training_plot.png)
+
+---
+
+### 🔍 Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
 
 ---
 
